@@ -5,6 +5,7 @@ class AfterLogin extends React.Component {
   render() {
     return template.call(this);
   }
+  
 }
 
 export default AfterLogin;
